@@ -4,7 +4,8 @@
 
 Link: https://domestic-flight-price.herokuapp.com/predict
 
-## Technologies Used
+
+# Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
