@@ -1,12 +1,11 @@
 # Domestic-Flight-Price-Prediction
 
-# Heroku Web-app
+![](static/heroku_logo.png)
 
-![](heroku_logo.png)
+Link: https://domestic-flight-price.herokuapp.com/predict
 
-link: https://domestic-flight-price.herokuapp.com/predict
 
-## Technologies Used
+# Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
