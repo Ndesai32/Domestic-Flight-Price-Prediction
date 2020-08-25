@@ -1,6 +1,6 @@
 # Domestic-Flight-Price-Prediction
 
-![](Capture.jpg)
+![](Capture.JPG)
 
 ![](static/heroku_logo.png)
 
