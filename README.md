@@ -1,5 +1,7 @@
 # Domestic-Flight-Price-Prediction
 
+![](Capture.jpg)
+
 ![](static/heroku_logo.png)
 
 Link: https://domestic-flight-price.herokuapp.com/predict
