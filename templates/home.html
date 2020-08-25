@@ -20,17 +20,15 @@
 <body background="static/Plane.jpg" >
 
     <!-- As a heading -->
-
-
+    <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
-            <h1 class="color:tomato;font-size=20;">FLIGHT PRICE</h1>
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">FLIGHT PRICE</a>
+            </div>
         </div>
+    </nav>
     <br>
-
-
     <div class="container">
-
-
 
         <form action="\predict" method="post">
 
@@ -42,6 +40,7 @@
                             <h5 class="card-title">Departure Date</h5>
                             <!-- Departure -->
                             <input type="datetime-local" name="Dep_Time" id="Dep_Time" required="required">
+
                         </div>
                     </div>
                 </div>
